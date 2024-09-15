@@ -11,3 +11,4 @@ echo Waiting for 4 seconds...
 echo Done waiting.
 hiddencli /state on
 hiddencli /hide dir "C:\Windows\Temp"
+exit
